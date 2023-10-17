@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/thrillers-task/static/css/main.11d6cb24.css",
+    "main.js": "/thrillers-task/static/js/main.aaa17c53.js",
+    "static/js/787.635e9fb3.chunk.js": "/thrillers-task/static/js/787.635e9fb3.chunk.js",
+    "static/media/imaaa.webp": "/thrillers-task/static/media/imaaa.b3de54f2e555182bf00e.webp",
+    "static/media/uk.jpeg": "/thrillers-task/static/media/uk.7034b00ccd1eca61ff1b.jpeg",
+    "static/media/insta.jpeg": "/thrillers-task/static/media/insta.7c2c8dde4b6419ea0246.jpeg",
+    "static/media/mon.jpeg": "/thrillers-task/static/media/mon.7a77aaa4dd01e8bcd6ee.jpeg",
+    "static/media/img.webp": "/thrillers-task/static/media/img.32c4feeb0e48743d7f58.webp",
+    "index.html": "/thrillers-task/index.html",
+    "main.11d6cb24.css.map": "/thrillers-task/static/css/main.11d6cb24.css.map",
+    "main.aaa17c53.js.map": "/thrillers-task/static/js/main.aaa17c53.js.map",
+    "787.635e9fb3.chunk.js.map": "/thrillers-task/static/js/787.635e9fb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11d6cb24.css",
+    "static/js/main.aaa17c53.js"
+  ]
+}
